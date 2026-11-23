@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(116, 13, 13);
-    color: rgb(0, 0, 0);
+    background-color: rgb(180, 21, 21);
+    color: rgb(0, 72, 255);
     font-size: 24px;
     line-height: 1.5;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Actor", sans-serif;
 }
 
 h1 {
@@ -12,10 +12,12 @@ h1 {
 
 p {
     font-size: 16px;
-    font-style: normal;
+    font-style: "Actor", sans-serif;
+    color: rgb(171, 17, 91);
+    
 }
 
 a {
-    color: blue;
+    color: rgb(4, 46, 255);
     text-decoration: none;
 }
